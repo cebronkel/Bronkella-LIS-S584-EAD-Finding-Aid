@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="http://ead3.archivists.org/schema/"	
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	
+	xsi:schemaLocation="http://ead3.archivists.org/schema/ https://www.loc.gov/ead/ead3.xsd"> 
+	<control>
+		<recordid>MAI418</recordid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Muslim Alliance of Indiana Organizational Records</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>IUPUI Special Collections and Archives - Indianapolis, IN</publisher>
+			</publicationstmt>
+		</filedesc>
+		<maintenancestatus value="new"></maintenancestatus>
+		<maintenanceagency>
+			<agencyname>IUPUI Special Collections and Archives</agencyname>
+		</maintenanceagency>
+		<languagedeclaration>
+			<language>English</language>
+		</languagedeclaration>
+		<conventiondeclaration>
+			<citation>Describing Archives: a Content Standard</citation>
+		</conventiondeclaration>
+		<rightsdeclaration>
+			<abbr>CC BY-NC-ND 4.0</abbr>
+			<citation href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial-NoDerivatives 4.0 International</citation>
+			<descriptivenote>Except where otherwise noted, the guide to the Muslim Alliance of Indiana Organizational Records by IUPUI Special Collections and Archives is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</descriptivenote>
+		</rightsdeclaration>
+		<maintenancehistory>
+			<maintenanceevent>
+				<eventtype value="created">2026-03-18</eventtype>
+				<eventdatetime></eventdatetime>
+				<agenttype value="human"></agenttype>
+				<agent></agent>
+			</maintenanceevent>
+		</maintenancehistory>
+	</control> 
+	<archdesc level="collection">
+		<did>
+			<unittitle>Muslim Alliance of Indiana Organizational Records</unittitle>
+			<unitid>MAI418</unitid>
+			<repository label="Repository:">
+				<corpname>
+					<part>IUPUI Special Collections and Archives</part>
+				</corpname>
+			</repository>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+			<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+				<quantity>53.1</quantity>
+				<unittype>MB</unittype>
+			</physdescstructured>
+			<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+				<quantity>109</quantity>
+				<unittype>files</unittype>
+			</physdescstructured>
+			<unitdatestructured unitdatetype="inclusive">
+				<daterange>
+					<fromdate standarddate="2005">2005</fromdate>
+					<todate standarddate="2013">2013</todate>
+				</daterange>
+			</unitdatestructured>
+			<unitdatestructured unitdatetype="bulk">
+				<dateset>
+					<daterange>
+						<fromdate standarddate="2009">2009</fromdate>
+						<todate standarddate="2011">2011</todate>
+					</daterange>
+					<datesingle standarddate="undated">undated</datesingle>
+				</dateset>
+			</unitdatestructured>
+			<origination label="Creator">
+				<corpname>
+					<part>Muslim Alliance of Indiana</part>
+				</corpname>
+			</origination>
+		</did>
+		<accessrestrict>
+			<head>4.1 Conditions Governing Access</head>
+			<p>Some materials in this collection may be restricted due to the presence of Personally Identifiable Information of living individuals and Sensitive Financial Data (ex. bank account numbers).At least 48 hours’ advance notice is required for staff to produce redacted patron-use copies of restricted items. Series or items with these restrictions will be noted in the content list or4.1 Element. The remainder of the collection is open to the public with no restrictions.</p>
+		</accessrestrict>
+		<userestrict>
+			<head>4.4 Conditions Governing Use</head>
+			<p>Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold harmless the IUPUI Special Collections and Archives and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For more information please visit the following website: http://www.loc.gov/copyright/title17/.</p>
+		</userestrict>
+		<accruals>
+			<head>5.4 Accruals</head>
+			<p>Further accruals are expected to be transferred from the Muslim Philanthropy Archives to the IUPUI Special Collections and Archives. Series or folders that contain limited numbers of materials were created in anticipation of further accruals that relate to the indicated scope (see Series III Folder III).</p>
+		</accruals>
+		<acqinfo>
+			<chronlist>
+				<chronitem>
+					<datesingle>2018-04</datesingle>
+					<event>Transfer from
+						<persname>
+							<part localtype="surname">Siddiqui</part>
+							<part localtype="givenname">Shariq</part>
+						</persname></event>
+				</chronitem>
+			</chronlist>
+		</acqinfo>
+		<bioghist>
+			<head>2.7 Administrative History</head>
+			<p>The Muslim Alliance of Indiana is a nonprofit organization dedicated to supporting the Muslim communities in Indiana through events, networking, education, and social services. They were established in 2001 shortly after the 9/11 attacks to unite Muslim Hoosiers in the face of misinformation and discrimination in America.</p>
+		</bioghist>
+		<scopecontent>
+			<head>3.1 Scope and Content</head>
+			<p>This collection documents notable services and events, including the related finances and planning, organized by nonprofit organization Muslim Alliance of Indiana (MAI). Records include meeting notes, private correspondence emails, public newsletters, event materials, financial statements, and other ephemera. Some notable events and subjects include the Governor’s Annual Iftar Dinner, annual conventions, luncheons, and legal services. This collection also includes organizational structure documents such as board member lists and details, website layout drafts, administrative records, and general informational slides and pamphlets presented at events to showcase MAI’s services and missions. Some records are related to the MAI organization but have unspecified origins or purposes.</p>
+		</scopecontent>
+		<controlaccess>
+			<head>Access Points</head>
+			<geogname source="lcnaf" identifier="http://id.loc.gov/authorities/names/n79055094">
+				<part>Indianapolis (Ind.)</part>
+			</geogname>
+			<persname source="lcnaf" identifier="http://id.loc.gov/authorities/names/no2018030619">
+				<part localtype="surname">Siddiqui</part>
+				<part localtype="givenname">Shariq</part>
+				<part localtype="dates">1971-</part>
+			</persname>
+			<persname source="lcnaf" identifier="http://id.loc.gov/authorities/names/n2014063177">
+				<part localtype="surname">Zakaria</part>
+				<part localtype="givenname">Rafia</part>
+				<part localtype="dates">1979-</part>
+			</persname>
+			<subject source="lcsh" identifier="http://id.loc.gov/authorities/subjects/sh85089077">
+				<part>Muslims</part>
+			</subject>
+			<subject source="lcsh" identifier="http://id.loc.gov/authorities/subjects/sh2006002128">
+				<part>Faith-based human services</part>
+			</subject>
+			<subject source="lcsh" identifier="https://lccn.loc.gov/sh85032985">
+				<part>Nonprofit organizations</part>
+			</subject>
+			<subject source="lcsh" identifier="https://lccn.loc.gov/sh2020004077">
+				<part>Social justice</part>
+				<part>Religious aspects</part>
+				<part>Islam</part>
+			</subject>
+		</controlaccess>
+		<dsc>
+			<c01 level="series">
+				<did>
+					<unitid>I</unitid>
+					<unittitle>Administrative Records</unittitle>
+					<unitdatestructured unitdatetype="inclusive">
+						<dateset>
+							<daterange>
+								<fromdate standarddate="2006">2006</fromdate>
+								<todate standarddate="2013">2013</todate>
+							</daterange>
+							<datesingle standarddate="undated">undated</datesingle>
+						</dateset>
+					</unitdatestructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>3.71</quantity>
+						<unittype>MB</unittype>
+					</physdescstructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>50</quantity>
+						<unittype>files</unittype>
+					</physdescstructured>
+				</did>
+				<scopecontent>
+					<p>Series contains records relating to staff, meetings, internal correspondence, finances, and operational details.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Series is arranged into 5 folders.</p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid>I</unitid>
+						<unittitle>Meeting Minutes and Notes</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<dateset>
+								<daterange>
+									<fromdate standarddate="2008">2008</fromdate>
+									<todate standarddate="2012">2012</todate>
+								</daterange>
+								<datesingle standarddate="undated">undated</datesingle>
+							</dateset>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>628</quantity>
+							<unittype>KB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>15</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains primarily MAI board meeting minutes. Some records are meeting notes for event planning.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by month and year. Undated items are placed after dated items.</p>
+					</arrangement>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>II</unitid>
+						<unittitle>Financial Records</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<dateset>
+								<daterange>
+									<fromdate standarddate="2009">2009</fromdate>
+									<todate standarddate="2012">2012</todate>
+								</daterange>
+								<datesingle standarddate="undated">undated</datesingle>
+							</dateset>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>1.02</quantity>
+							<unittype>MB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>11</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains a variety of financial records, budgets, and statements related to MAI activities and events. Some records are summaries or overviews of financial transactions and allotment over the course of a fiscal year. One record is a narrative draft for a grant application.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by year, followed by alphabetically by file name. Undated items are placed after dated items.</p>
+					</arrangement>
+					<accessrestrict>
+						<p>Some items within this folder are subject to restrictions.</p>
+					</accessrestrict>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>III</unitid>
+						<unittitle>Staff Records</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<dateset>
+								<daterange>
+									<fromdate standarddate="2007">2007</fromdate>
+									<todate standarddate="2013">2013</todate>
+								</daterange>
+								<datesingle standarddate="undated">undated</datesingle>
+							</dateset>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>292</quantity>
+							<unittype>KB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>9</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains records relating to board member names and volunteers, such as personal information, organizational positions, and nominee presentations.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by year, followed by alphabetically by file name. Undated items are placed after dated items.</p>
+					</arrangement>
+					<accessrestrict>
+						<p>Some items within this folder are subject to restrictions.</p>
+					</accessrestrict>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>IV</unitid>
+						<unittitle>Private Correspondence</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<dateset>
+								<daterange>
+									<fromdate standarddate="2006">2006</fromdate>
+									<todate standarddate="2007">2007</todate>
+								</daterange>
+								<daterange>
+									<fromdate standarddate="2009">2009</fromdate>
+									<todate standarddate="2012">2012</todate>
+								</daterange>
+							</dateset>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>1.51</quantity>
+							<unittype>MB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>12</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains screenshots of sent emails and email drafts between MAI members, staff, and external individuals regarding MAI events and planning.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by month and year, followed by alphabetically by file name.</p>
+					</arrangement>
+					<accessrestrict>
+						<p>All items within this folder are subject to restrictions.</p>
+					</accessrestrict>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unitid>V</unitid>
+							<unittitle>Organization Details</unittitle>
+							<unitdatestructured unitdatetype="inclusive">
+								<dateset>
+									<datesingle standarddate="2009">2009</datesingle>
+									<datesingle standarddate="2011">2011</datesingle>
+								</dateset>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+								<quantity>230</quantity>
+								<unittype>KB</unittype>
+							</physdescstructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+								<quantity>3</quantity>
+								<unittype>files</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Folder contains records of general organization information and functions that represent MAI’s mission and purpose.</p>
+						</scopecontent>
+						<arrangement>
+							<p>Folder is arranged chronologically by year, followed by alphabetically by file name.</p>
+						</arrangement>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>II</unitid>
+					<unittitle>Event Records</unittitle>
+					<unitdatestructured unitdatetype="inclusive">
+						<dateset>
+							<datesingle standarddate="2006">2006</datesingle>
+							<daterange>
+								<fromdate standarddate="2009">2009</fromdate>
+								<todate standarddate="2010">2010</todate>
+							</daterange>
+							<datesingle standarddate="2012">2012</datesingle>
+							<datesingle standarddate="undated">undated</datesingle>
+						</dateset>
+					</unitdatestructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>8.44</quantity>
+						<unittype>MB</unittype>
+					</physdescstructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>28</quantity>
+						<unittype>files</unittype>
+					</physdescstructured>
+				</did>
+				<scopecontent>
+					<p>Series contains records arranged into folders based on the type of event organized by MAI.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Series is arranged alphabetically by Folder title.</p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid>I</unitid>
+						<unittitle>Conferences and Conventions</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+								<daterange>
+									<fromdate standarddate="2009">2009</fromdate>
+									<todate standarddate="2010">2010</todate>
+								</daterange>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>4.14</quantity>
+							<unittype>MB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>11</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains records related to planning, communication, presentations, and announcements of MAI conventions and conferences.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by month and year, followed by alphabetically by item name. Items that only provide years are placed after files that provide months.</p>
+					</arrangement>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>II</unitid>
+						<unittitle>Iftar</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<dateset>
+								<datesingle standarddate="2009">2009</datesingle>
+								<datesingle standarddate="2012">2012</datesingle>
+							</dateset>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>656</quantity>
+							<unittype>KB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>8</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains records related to planning, communication, presentations, and announcements of the Governor’s Annual Iftar Dinner.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by month and year.</p>
+					</arrangement>
+					<accessrestrict>
+						<p>Some items within this folder are subject to restrictions.</p>
+					</accessrestrict>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>III</unitid>
+						<unittitle>Luncheons</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<datesingle standarddate="2009">2009</datesingle>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>3.06</quantity>
+							<unittype>MB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>5</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains records related to planning, communication, presentations, and announcements of MAI luncheons.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by month and year.</p>
+					</arrangement>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>IV</unitid>
+						<unittitle>Unspecified Events</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<dateset>
+								<datesingle standarddate="2006">2006</datesingle>
+								<datesingle standarddate="2009">2009</datesingle>
+								<datesingle standarddate="undated">undated</datesingle>
+							</dateset>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>612</quantity>
+							<unittype>KB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>4</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains records related to planning, communication, presentations, and announcements of various MAI events outside the scope of previous Folders.</p>
+					</scopecontent>
+					<arrangement>
+						<p>: Folder is arranged chronologically by year. Undated items are placed after dated items.</p>
+					</arrangement>
+					</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>III</unitid>
+					<unittitle>Marketing and Communications</unittitle>
+					<unitdatestructured unitdatetype="inclusive">
+						<daterange>
+							<fromdate standarddate="2005">2005</fromdate>
+							<todate standarddate="2010">2010</todate>
+						</daterange>
+					</unitdatestructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>27.6</quantity>
+						<unittype>MB</unittype>
+					</physdescstructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>18</quantity>
+						<unittype>files</unittype>
+					</physdescstructured>
+				</did>
+				<scopecontent>
+					<p>Series contains records relating to publications, promotional materials, and any external communications created or issued by MAI or its leadership.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Series is arranged into 4 folders.</p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid>I</unitid>
+						<unittitle>Newsletters and News Briefs</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<daterange>
+								<fromdate standarddate="2005">2005</fromdate>
+								<todate standarddate="2007">2007</todate>
+							</daterange>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>1.97</quantity>
+							<unittype>MB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>7</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains digital newsletters and briefs issued by MAI or its leadership.</p>
+					</scopecontent>
+					<arrangement>
+						<p>: Folder is arranged chronologically by month and year.</p>
+					</arrangement>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>II</unitid>
+						<unittitle>Publications and External Communications</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<dateset>
+								<daterange>
+									<fromdate standarddate="2005">2005</fromdate>
+									<todate standarddate="2009">2009</todate>
+								</daterange>
+								<datesingle standarddate="undated">undated</datesingle>
+							</dateset>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>10.3</quantity>
+							<unittype>MB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>5</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains magazines and written work published by MAI or its leadership, as well as a planning draft for the official MAI website.</p>
+					</scopecontent>
+					<arrangement>
+						<p>: Folder is arranged alphabetically by file name.</p>
+					</arrangement>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>III</unitid>
+						<unittitle>Annual Reports</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<datesingle standarddate="2010">2010</datesingle>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>3.32</quantity>
+							<unittype>MB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>1</quantity>
+							<unittype>file</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains published annual reports.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by year.</p>
+					</arrangement>
+					<accruals>
+						<p>New additions are expected to be transferred to the archive at a later time. A folder has been dedicated to this scope despite only containing one record due to related additions expected in the future.</p>
+					</accruals>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>IV</unitid>
+						<unittitle>Presentations</unittitle>
+						<unitdatestructured unitdatetype="inclusive">
+							<dateset>
+								<daterange>
+									<fromdate standarddate="2007">2007</fromdate>
+									<todate standarddate="2010">2010</todate>
+								</daterange>
+								<datesingle standarddate="undated">undated</datesingle>
+							</dateset>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>11.9</quantity>
+							<unittype>MB</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+							<quantity>5</quantity>
+							<unittype>files</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent>
+						<p>Folder contains various PowerPoint presentations that were presumably presented during outreach opportunities or events to inform audiences about what the organization is about and the services it offers.</p>
+					</scopecontent>
+					<arrangement>
+						<p>Folder is arranged chronologically by year. Undated materials are placed after dated materials and are arranged alphabetically by file name.</p>
+					</arrangement>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>IV</unitid>
+					<unittitle>Legal Services</unittitle>
+					<unitdatestructured unitdatetype="inclusive">
+							<datesingle standarddate="undated">undated</datesingle>
+					</unitdatestructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>1.38</quantity>
+						<unittype>MB</unittype>
+					</physdescstructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>3</quantity>
+						<unittype>files</unittype>
+					</physdescstructured>
+				</did>
+				<scopecontent>
+					<p>Series contains informational records related to legal services offered by MAI.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Series is arranged alphabetically by file name.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>V</unitid>
+					<unittitle>Unspecified Images</unittitle>
+					<unitdatestructured unitdatetype="inclusive">
+						<datesingle standarddate="undated">undated</datesingle>
+					</unitdatestructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>11.9</quantity>
+						<unittype>MB</unittype>
+					</physdescstructured>
+					<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+						<quantity>10</quantity>
+						<unittype>files</unittype>
+					</physdescstructured>
+				</did>
+				<scopecontent>
+					<p>Series contains images that are from unknown origins but appear to be related to events organized or hosted by MAI.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Series is arranged alphabetically by file name.</p>
+				</arrangement>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
